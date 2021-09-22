@@ -1,0 +1,4 @@
+David Ponce,dponce@gmail.com,dponce,81dc9bdb52d04dc20036dbd8313ed055
+Rodrigo Saraguro,rasaraguro@gmail.com,rasarag,81dc9bdb52d04dc20036dbd8313ed055
+Ana Lopez,alopez@gmail.com,alopez,81dc9bdb52d04dc20036dbd8313ed055
+Cesar Puente,cpuente@gmail.com,cpuente,81dc9bdb52d04dc20036dbd8313ed055
